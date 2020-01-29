@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+     Yanet ypedraza@altimetrik.com 
 # THANKS
 
     <name>
