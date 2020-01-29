@@ -12,7 +12,7 @@ example info
 
 ##Plus
 
-more info
+more info in doc
 
 ##More
 
